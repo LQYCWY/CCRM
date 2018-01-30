@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: 2016- 2017 H1 Past Events</title>
+	<atom:link href="https://www.ccrmanager.com/2017/04/11/past-events/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ccrmanager.com/2017/04/11/past-events/</link>
+	<description>Capital and Credit Risk Manager</description>
+	<lastBuildDate>Wed, 24 Jan 2018 09:52:37 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+</channel>
+</rss>
